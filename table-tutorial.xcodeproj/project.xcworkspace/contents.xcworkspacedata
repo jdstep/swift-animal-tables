@@ -2,6 +2,9 @@
 <Workspace
    version = "1.0">
    <FileRef
+      location = "group:../Animal.swift">
+   </FileRef>
+   <FileRef
       location = "self:table-tutorial.xcodeproj">
    </FileRef>
 </Workspace>
